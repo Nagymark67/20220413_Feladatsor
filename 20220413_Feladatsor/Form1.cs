@@ -28,6 +28,7 @@ namespace _20220413_Feladatsor
             button6.Enabled = false;
             button7.Text = "7. Feladat";
             button8.Text = "8. Feladat";
+            //asdasd
         }
 
         private void button1_Click(object sender, EventArgs e)
